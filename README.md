@@ -29,7 +29,7 @@ Hi there! I'm Matteo La Gioia, a passionate **Computer Engineering** graduate fr
 
 ## 📬 Contact Me
 - **Email**: [matteo.lagioia@gmail.com](mailto:matteo.lagioia@gmail.com)  
-- **LinkedIn**: [Matteo La Gioia]([#](https://www.linkedin.com/in/matteo-la-gioia-b5a189187/)) 
+- **LinkedIn**: [Matteo La Gioia](https://www.linkedin.com/in/matteo-la-gioia-b5a189187/) 
 
 ---
 
