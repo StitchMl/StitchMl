@@ -7,7 +7,7 @@ Hi there! I'm Matteo La Gioia, a passionate **Computer Engineering** graduate fr
 ---
 
 ## 🚀 Skills & Expertise
-- **Programming**: C, Java, Python, HTML, CSS, Arduino (Basic)
+- **Programming**: Go, C, Java, Python, HTML, CSS, Arduino (Basic)
 - **Software**: Microsoft Office Suite, Google Drive, Dropbox
 - **Video Production**: Filming, Editing, and Live Streaming
 - **Tools**: Docker, Git, and MapReduce for distributed computing
